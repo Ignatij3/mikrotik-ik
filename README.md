@@ -17,7 +17,7 @@ and problems are solved without AI assistance.
 is representative of my coding style in the last couple of months. Parts of the code<br>
 are a recreation of my work at the previous employer. I made sure to not use any of their<br>
 intellectual property in my code snippets. Some snippets contain references to non-existent<br>
-instances. I decided not to recreate those due to time investment required.
+instances. I decided not to recreate those due to time investment required.<br>
 Technology/concepts present:
   - preprocessor magic for logger
   - hardware communication via GPIO
